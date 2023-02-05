@@ -37,7 +37,7 @@ export default function App() {
       //weight
       names[i].insertAdjacentHTML(
         'afterend',
-        '<weight><![CDATA[1000]]></weight>'
+        '<weight><![CDATA[100]]></weight>'
       );
       // quantity
       names[i].insertAdjacentHTML(
